@@ -1,0 +1,50 @@
+h1{
+    font-size: 3em;
+    color:bisque;
+    text-shadow: 5px 5px 7px red;
+    text-shadow:-1px -1px 3px rgb(183, 255, 0);
+    border-bottom: 4px dotted greenyellow;
+    border-left: 4px dotted greenyellow;
+    border-right: 4px dotted greenyellow;
+    border-top: 4px dotted greenyellow;
+
+    border-radius: 10px;
+    color:aliceblue;
+    display:inline-block
+    
+}
+
+p {
+    
+    color: aliceblue;
+    text-shadow: 2px 2px 2px rgb(174, 255, 0);
+    font-size: 30px;
+}
+
+d {
+    color: rgb(255, 225, 0);
+    background-color: blueviolet;
+    display: inline-block; 
+    padding: 5px;
+    margin-left:200px;
+}
+
+
+d a {
+    color: rgb(255, 225, 0);
+    background-color: blueviolet;
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+}
+
+#box1 {
+    margin-left: 30%;
+}
+
+#mama {
+    margin-left:70px;
+}
